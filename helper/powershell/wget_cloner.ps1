@@ -1,1 +1,1 @@
-winget install GNU.Wget
+winget install JernejSimoncic.Wget
